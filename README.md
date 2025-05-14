@@ -55,3 +55,7 @@ Email: timasli@icloud.com
 ---
 
 **Enjoy using XOS, your fast, secure, and efficient operating system!**
+
+## DOWNLOAD
+
+[XOS21B9](https://www.dropbox.com/scl/fi/kam8c4kqfe1o809661pxs/xos21b9.zip?rlkey=33khav7mipfbyy114cerxc9u9&st=3z0810pk&dl=0)
